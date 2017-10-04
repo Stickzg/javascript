@@ -1,2 +1,1 @@
-valami
-és még valami
+ez egy új szöveg

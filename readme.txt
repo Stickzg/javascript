@@ -1,1 +1,1 @@
-ez egy új szöveg
+újra mod
